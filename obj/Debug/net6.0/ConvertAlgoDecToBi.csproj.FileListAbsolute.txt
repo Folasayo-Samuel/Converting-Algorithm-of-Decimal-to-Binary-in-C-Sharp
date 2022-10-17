@@ -1,0 +1,15 @@
+/home/saint/Desktop/ConvertAlgoDecToBi/bin/Debug/net6.0/ConvertAlgoDecToBi
+/home/saint/Desktop/ConvertAlgoDecToBi/bin/Debug/net6.0/ConvertAlgoDecToBi.deps.json
+/home/saint/Desktop/ConvertAlgoDecToBi/bin/Debug/net6.0/ConvertAlgoDecToBi.runtimeconfig.json
+/home/saint/Desktop/ConvertAlgoDecToBi/bin/Debug/net6.0/ConvertAlgoDecToBi.dll
+/home/saint/Desktop/ConvertAlgoDecToBi/bin/Debug/net6.0/ConvertAlgoDecToBi.pdb
+/home/saint/Desktop/ConvertAlgoDecToBi/obj/Debug/net6.0/ConvertAlgoDecToBi.csproj.AssemblyReference.cache
+/home/saint/Desktop/ConvertAlgoDecToBi/obj/Debug/net6.0/ConvertAlgoDecToBi.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/ConvertAlgoDecToBi/obj/Debug/net6.0/ConvertAlgoDecToBi.AssemblyInfoInputs.cache
+/home/saint/Desktop/ConvertAlgoDecToBi/obj/Debug/net6.0/ConvertAlgoDecToBi.AssemblyInfo.cs
+/home/saint/Desktop/ConvertAlgoDecToBi/obj/Debug/net6.0/ConvertAlgoDecToBi.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/ConvertAlgoDecToBi/obj/Debug/net6.0/ConvertAlgoDecToBi.dll
+/home/saint/Desktop/ConvertAlgoDecToBi/obj/Debug/net6.0/refint/ConvertAlgoDecToBi.dll
+/home/saint/Desktop/ConvertAlgoDecToBi/obj/Debug/net6.0/ConvertAlgoDecToBi.pdb
+/home/saint/Desktop/ConvertAlgoDecToBi/obj/Debug/net6.0/ConvertAlgoDecToBi.genruntimeconfig.cache
+/home/saint/Desktop/ConvertAlgoDecToBi/obj/Debug/net6.0/ref/ConvertAlgoDecToBi.dll
